@@ -4,4 +4,4 @@ Feel free to use these directly, or just use them to get a sense of the process 
 
 Feel free to add other designs to this repo as you make them!
 
-Recently added is a BOM (tools and materials) and SOP. I have also uploaded a manufacturing video. 
+Recently added is a BOM (tools and materials) and SOP. I have also uploaded a manufacturing video to YouTube at this link: [ADD LINK]
