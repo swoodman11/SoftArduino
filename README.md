@@ -13,3 +13,6 @@ Best,
 Steph and the stretch Arduino author team
 
 
+![git-pic](https://github.com/user-attachments/assets/65163e08-f79d-4235-bf81-4ca14b2ac31e)
+
+
