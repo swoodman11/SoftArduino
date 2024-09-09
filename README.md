@@ -5,7 +5,7 @@ With just the designs from the paper, you can make stretchable Arduino Pro Minis
 
 Let's get fabricating!! 
 
-We recently added a list of recommended tools and materials ("BOM_tools_and_materials"), manufacturing procedure ("Soft Circuit Procedure 3.26.2024"). Additionally, you can find an instructional manufacturing [on YouTube](https://youtu.be/nDWBUMG_oVs).
+We recently added a list of recommended tools and materials ("BOM_tools_and_materials") and a manufacturing procedure ("Soft Circuit Procedure 3.26.2024"). Additionally, you can find an instructional manufacturing [on YouTube](https://youtu.be/nDWBUMG_oVs).
 
 Reach out to me at stephanie.woodman@yale.edu with any questions! :)
 
